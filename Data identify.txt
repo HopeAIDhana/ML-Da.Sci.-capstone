@@ -1,0 +1,41 @@
+ Employee Promotion Prediction project    -  Employee Promotion Data
+Kaggle → Download → Jupyter Notebook → Python.
+  Kaggle
+  ↓
+  Correct Dataset
+  ↓
+  Download CSV
+  ↓
+  Jupyter Notebook
+  ↓
+  Python + Pandas
+  ↓
+Dataset Load
+
+Dataset size  -  54,808 employees + 14 features/columns.
+
+    Column names
+  department
+  education
+  age
+  no_of_trainings
+  previous_year_rating
+  length_of_service
+  KPIs_met >80%
+  awards_won?
+  avg_training_score
+  promoted
+
+Employee Promotion Prediction Machine Learning  -  Supervised Learning → Classification
+
+Machine Learning Classification Model
+↓
+promoted
+1 → Promoted 
+0 → Not Promoted 
+
+My Employee Promotion Prediction project is a Supervised Machine Learning Classification problem, because the target variable promoted has two classes:
+Promoted (1) and Not Promoted (0).
+
+
+
